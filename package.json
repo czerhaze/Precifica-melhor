@@ -1,0 +1,7 @@
+{
+  "name": "precifica",
+  "version": "3.0.0",
+  "private": true,
+  "description": "Precifica: precificação e gestão financeira para pequenos e médios negócios. Sem dependências.",
+  "scripts": { "test": "node finance.test.js" }
+}
